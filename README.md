@@ -50,15 +50,6 @@ They are lightweight modifications of standard Transformer/BERT components, desi
 
 ---
 
-### 🗃 Tokenizer utilities
-
-Used only for small-scale experiments:
-
-- `tiny_tokenizer.py`  
-- `tiny-tokenizer.json`
-
----
-
 ## 📎 Citation
 
 If you find this work useful, please cite:
